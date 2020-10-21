@@ -10,6 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
+		"onLanguage:json",
 		"onCommand:dynamic-config-schema.helloWorld"
 	],
 	"main": "./out/extension.js",
